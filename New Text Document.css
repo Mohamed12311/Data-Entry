@@ -1,0 +1,33 @@
+.image{
+   background-image: url('581.jpg');
+   height:300px;
+   background-position:left;
+   background-repeat: no-repeat;
+   background-size: contain;
+
+
+}
+.data{
+    position: absolute;
+    left: 40%;
+    top: 80px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 90px;
+}
+.imag{
+    position: relative;
+    height: 300px;
+    width: 100%;
+
+}
+#m{
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+    margin-top: -10px;
+}
+#l1{
+    margin-top: -43px;
+}
